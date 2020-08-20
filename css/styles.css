@@ -155,6 +155,6 @@ table td {
         }
     } */
 
-  .solution, .answer, .nav{
+.solution, .answer, nav{
       visibility: hidden;
   }
